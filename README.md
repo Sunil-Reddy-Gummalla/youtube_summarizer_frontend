@@ -26,7 +26,7 @@ cargo install cargo-leptos --locked
 
 ## Development
 
-2. Start the development server (auto-rebuild + reload):
+ Start the development server (auto-rebuild + reload):
 
 ```bash
 cargo leptos watch
