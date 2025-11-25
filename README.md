@@ -26,14 +26,6 @@ cargo install cargo-leptos --locked
 
 ## Development
 
-1. Install end-to-end test dependencies (once):
-
-```bash
-cd end2end
-npm ci
-cd ..
-```
-
 2. Start the development server (auto-rebuild + reload):
 
 ```bash
